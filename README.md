@@ -32,7 +32,15 @@ const manager = new AlgoliaSearchManager('YourAppID', 'YourSearchOnlyAPIKey');
     console.log(results);
   },
   plugins: [
-    // Add your plugins here
+    {
+      beforeSearch: (instance) =&gt; {
+        console.log('Before search:', instance.searchTerm);
+      },
+      onSearchResults: (results, instance) =&gt; {
+        console.log('Search results:', results);
+        return results;
+      },
+    },
   ],
 });
 </code></pre>
