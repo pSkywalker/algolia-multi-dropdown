@@ -13,6 +13,14 @@
     "build": "tsc",
     "clean": "rm -rf dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pSkywalker/algolia-multi-dropdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pSkywalker/algolia-multi-dropdown/issues"
+  },
+  "homepage": "https://github.com/pSkywalker/algolia-multi-dropdown/README.md",
   "keywords": [
     "algolia",
     "search",
