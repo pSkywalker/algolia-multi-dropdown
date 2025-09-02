@@ -1,6 +1,6 @@
 {
   "name": "algolia-multi-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AlgoliaSearchManager is a framework-agnostic TypeScript library that simplifies managing multiple Algolia search dropdowns or search components on a single page. Each instance can have its own plugins, allowing you to extend functionality with features such as caching, debouncing, logging, analytics, and result transformations.",
   "license": "MIT",
   "author": "pskywalker",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/pSkywalker/algolia-multi-dropdown/issues"
   },
-  "homepage": "https://github.com/pSkywalker/algolia-multi-dropdown/README.md",
+  "homepage": "https://github.com/pSkywalker/algolia-multi-dropdown",
   "keywords": [
     "algolia",
     "search",
