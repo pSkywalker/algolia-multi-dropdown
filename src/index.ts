@@ -1,0 +1,1 @@
+export { AlgoliaSearchManager } from "./AlgoliaSearchManager";

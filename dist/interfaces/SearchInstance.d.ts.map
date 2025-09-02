@@ -1,0 +1,1 @@
+{"version":3,"file":"SearchInstance.d.ts","sourceRoot":"","sources":["../../src/interfaces/SearchInstance.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,aAAa,EAAC,MAAM,iBAAiB,CAAE;AAE/C,MAAM,WAAW,cAAc;IAC7B,EAAE,EAAE,MAAM,CAAC;IACX,SAAS,EAAE,MAAM,CAAC;IAClB,UAAU,EAAE,MAAM,CAAC;IACnB,OAAO,CAAC,EAAE,aAAa,EAAE,CAAC;IAC1B,SAAS,CAAC,EAAE,CAAC,MAAM,EAAE,GAAG,KAAK,IAAI,CAAC;CACnC"}

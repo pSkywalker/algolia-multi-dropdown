@@ -1,0 +1,1 @@
+{"version":3,"file":"AlgoliaPlugin.d.ts","sourceRoot":"","sources":["../../src/interfaces/AlgoliaPlugin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,cAAc,EAAC,MAAM,kBAAkB,CAAC;AAGhD,MAAM,WAAW,aAAa;IAC5B,YAAY,CAAC,EAAE,CAAC,QAAQ,EAAE,cAAc,KAAK,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC,CAAC;IAClE,eAAe,CAAC,EAAE,CAAC,OAAO,EAAE,GAAG,EAAE,QAAQ,EAAE,cAAc,KAAK,GAAG,CAAC;CACnE"}
